@@ -60,6 +60,10 @@ Embedded Coder (if generating C code for hardware)
 
 ![image](https://github.com/user-attachments/assets/de6e4093-c178-4587-a49d-b7886e7e85de)
 
+2. Vehicle speed
+
+![image](https://github.com/user-attachments/assets/ab734519-b8f0-4176-89cb-c7b02ec59b3a)
+
 
 
 ## Future Enhancements
