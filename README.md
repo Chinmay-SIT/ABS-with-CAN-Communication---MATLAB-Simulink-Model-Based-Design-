@@ -69,6 +69,23 @@ Embedded Coder (if generating C code for hardware)
 ![image](https://github.com/user-attachments/assets/38fc50b1-0788-4d27-9f94-76901071c021)
 
 
+### Graphs from CAN communication
+1. wheel speed signal
+
+![image](https://github.com/user-attachments/assets/4054bf0d-9069-4b63-a572-93fa9f5a8579)
+
+2. Vehicle speed signal
+
+![image](https://github.com/user-attachments/assets/4ac82274-1d1c-41bd-b74b-c3a1caa1a95b)
+
+3. Stopping distance signal
+
+![image](https://github.com/user-attachments/assets/5d3a024f-11a9-4773-8b79-a20e16c7c2b5)
+
+
+
+
+
 
 
 ## Future Enhancements
