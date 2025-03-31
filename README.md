@@ -1,1 +1,1 @@
-# ABS-with-CAN-Communication---MATLAB-Simulink-Model-Based-Design-
+# ABS-with-CAN-Communication in MATLAB-Simulink (Model-Based-Design)
