@@ -33,6 +33,10 @@ Simulink Real-Time & Vehicle Network Toolbox (for CAN simulation)
 
 Embedded Coder (if generating C code for hardware)
 
+## Simulink model
+![image](https://github.com/user-attachments/assets/d8037e79-5836-48c1-a3e1-fe753e86cc45)
+
+
 
 ## Steps to Run
 
