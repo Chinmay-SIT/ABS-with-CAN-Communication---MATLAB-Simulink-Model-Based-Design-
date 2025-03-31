@@ -57,7 +57,7 @@ Embedded Coder (if generating C code for hardware)
 ## Results
 ### Graphs from ABS model 
 1. Wheel speed
-   ![image](https://github.com/user-attachments/assets/de6e4093-c178-4587-a49d-b7886e7e85de)
+![image](https://github.com/user-attachments/assets/de6e4093-c178-4587-a49d-b7886e7e85de)
 
 
 
