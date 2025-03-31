@@ -83,7 +83,9 @@ Embedded Coder (if generating C code for hardware)
 ![image](https://github.com/user-attachments/assets/5d3a024f-11a9-4773-8b79-a20e16c7c2b5)
 
 
+## Conclusion
 
+This project successfully demonstrates an ABS model integrated with CAN communication using MATLAB Simulink and Model-Based Design (MBD) principles. It provides a solid foundation for understanding vehicle control systems and their real-time communication mechanisms. The structured approach enables scalability, making it suitable for further enhancements, including hardware implementation and AI-based optimizations. This work is valuable for both academic research and automotive industry applications.
 
 
 
