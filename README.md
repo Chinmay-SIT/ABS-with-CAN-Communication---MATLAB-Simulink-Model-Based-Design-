@@ -64,6 +64,11 @@ Embedded Coder (if generating C code for hardware)
 
 ![image](https://github.com/user-attachments/assets/ab734519-b8f0-4176-89cb-c7b02ec59b3a)
 
+3. Stopping distance
+
+![image](https://github.com/user-attachments/assets/38fc50b1-0788-4d27-9f94-76901071c021)
+
+
 
 
 ## Future Enhancements
