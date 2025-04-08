@@ -1,0 +1,12 @@
+Model initialisation
+
+Type this is matlab command window - 
+(You can change these parameters according to you)
+
+
+% ABS Model Initialization
+m = 1500;  % Vehicle mass
+R = 0.3;   % Wheel radius
+v0 = 20;   % Initial vehicle speed
+I = 2;     % Wheel moment of inertia
+>> g = 9.81; % Acceleration due to gravity (m/s^2)
